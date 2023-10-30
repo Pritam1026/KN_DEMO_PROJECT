@@ -6,4 +6,6 @@ Ipykernel
 scikit-learn
 xgboost
 catboost
+dill
+joblib
 #-e .
